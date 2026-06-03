@@ -50,6 +50,7 @@ This BMI Calculator takes Name, Height and Weight form user and then it analysis
 ## Output
 ![image.alt](https://github.com/stephanthomas-blip/OIBSIP/blob/c1c0cfa616415b8652d5267d82228df2016b80da/Screenshot%202026-06-03%20172840.png)
 ![image.alt](https://github.com/stephanthomas-blip/OIBSIP/blob/f2621f4bf6014d55949ca3cb37c6d3e44462ac82/Screenshot%202026-06-03%20172951.png)
+![image.alt](https://github.com/stephanthomas-blip/OIBSIP/blob/c6e0b0414f9901e4857b226066dd74d86f827a09/Screenshot%202026-06-03%20172319.png)
 
 ## Author
 
