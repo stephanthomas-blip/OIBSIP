@@ -1,6 +1,6 @@
 # OIBSIP
-                                                               Advanced BMI Calculator
-                                                                    Stephan_Task2 
+                                                                        BMI CALCULATOR
+                                                                        
 Project Overview
 This BMI Calculator is a Python-based desktop application developed as part of the Oasis Infobyte Python Programming Internship. The project helps users calculate their Body Mass Index (BMI), classify health status, store records in a PostgreSQL database, and analyze BMI trends through graphical visualization.
 This project demonstrates the practical application of Python programming, database management, graphical user interface development, data visualization, and problem-solving techniques.
