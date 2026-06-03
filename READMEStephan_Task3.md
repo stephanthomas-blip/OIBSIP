@@ -1,3 +1,4 @@
+# Random Password Generator
 ## Project Overview
 The Random Password Generator is a Python-based desktop application developed using the Tkinter GUI library. The application generates secure and random passwords according to user-selected criteria such as password length and character types.
 The project aims to help users create strong passwords for online accounts and improve password security.
@@ -62,7 +63,7 @@ e.	Presence of symbols
 10.	End.
 ## Output
 ![image.alt](https://github.com/stephanthomas-blip/OIBSIP/blob/ff85c7c8ebb418b5e7fd460b4e31c67752f40631/Screenshot%202026-06-02%20155328.png)
-![image.alt](
+![image.alt](https://github.com/stephanthomas-blip/OIBSIP/blob/7d4272b0ca2a34863e71380d99131e53252cd6a6/Screenshot%202026-06-02%20155348.png)
 ## Advantages
 1.	Easy to use. 
 2.	Generates random and secure passwords.
