@@ -1,0 +1,85 @@
+## Project Overview
+The Random Password Generator is a Python-based desktop application developed using the Tkinter GUI library. The application generates secure and random passwords according to user-selected criteria such as password length and character types.
+The project aims to help users create strong passwords for online accounts and improve password security.
+
+## Objectives
+1.	Generate secure random passwords. 
+2.	Allow users to customize password length. 
+3.	Allow inclusion of: 
+a.	Uppercase letters 
+b.	Lowercase letters 
+c.	Numbers 
+d.	Special symbols 
+4.	Display password strength. 
+5.	Copy generated passwords to the clipboard. 
+6.	Provide a simple and user-friendly graphical interface. 
+## Technologies Used
+Python	Programming Language
+Tkinter	GUI Development
+Random Module	Password Generation
+String Module	Character Sets
+
+## Features
+1.Password Length Selection
+2.Users can enter the desired password length.
+3.Character Type Selection
+4.Users can choose from:
+    a.Uppercase Letters (A-Z) 
+    b.Lowercase Letters (a-z) 
+    c.Numbers (0-9) 
+    d.Symbols (!,@,#,$,%, etc.) 
+## Password Generation
+The application generates a random password based on selected options.
+Password Strength Checker
+The application evaluates the generated password and displays:
+1.	Weak 
+2.	Medium 
+3.	Strong
+The application provides a clean graphical user interface for easy interaction.
+## Working Principle
+1.	The user enters the desired password length.
+2.	The user selects character categories.
+3.	The application combines selected character sets.
+4.	Random characters are selected to create the password.
+5.	The generated password is displayed on the screen.
+6.	Password strength is analyzed based on
+a.	Length 
+b.	Presence of uppercase letters 
+c.	Presence of lowercase letters 
+d.	Presence of numbers 
+e.	Presence of symbols 
+7.	The user can copy the generated password to the clipboard.
+## Algorithm
+1.	Start the application. 
+2.	Take password length as input. 
+3.	Check selected character options. 
+4.	Create a character pool. 
+5.	Generate random characters from the pool. 
+6.	Form the password. 
+7.	Display the generated password. 
+8.	Calculate password strength. 
+9.	Allow copying of password. 
+10.	End. 
+## Input
+a.	Password Length 
+b.	Character Type Selection 
+Example:
+Length = 12
+
+Uppercase
+ Lowercase
+Numbers
+Symbols
+Output
+## Example Generated Password:
+G@8xP#2nQ!7m
+Strength:
+Strong
+## Advantages
+•	Easy to use. 
+•	Generates random and secure passwords. 
+## Author
+Stephan
+•	Improves account security. 
+•	Fast password generation. 
+•	Customizable password cr
