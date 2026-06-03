@@ -70,6 +70,8 @@ e.	Presence of symbols
 3.	Improves account security. 
 4.	Fast password generation. 
 5.	Customizable password
+## Conclusion
+The user is given the length of the password the user desire and then checkboxes are there to select the desired number of charcter they want to use after that click generate password as it is created the password is rated to be storng and weak and a option to copy and use it on any platform they desire.
 ## Author
 Stephan 
 
