@@ -61,6 +61,7 @@ e.	Presence of symbols
 9.	Allow copying of password. 
 10.	End.
 ## Output
+![image.alt](https://github.com/stephanthomas-blip/OIBSIP/blob/ff85c7c8ebb418b5e7fd460b4e31c67752f40631/Screenshot%202026-06-02%20155328.png)
 ![image.alt](
 ## Advantages
 1.	Easy to use. 
