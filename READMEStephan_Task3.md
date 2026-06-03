@@ -20,14 +20,14 @@ Random Module	Password Generation
 String Module	Character Sets
 
 ## Features
-1.Password Length Selection
-2.Users can enter the desired password length.
-3.Character Type Selection
-4.Users can choose from:
-    a.Uppercase Letters (A-Z) 
-    b.Lowercase Letters (a-z) 
-    c.Numbers (0-9) 
-    d.Symbols (!,@,#,$,%, etc.) 
+1. Password Length Selection
+2. Users can enter the desired password length.
+3. Character Type Selection
+4. Users can choose from:
+    a. Uppercase Letters (A-Z) 
+    b. Lowercase Letters (a-z) 
+    c. Numbers (0-9) 
+    d. Symbols (!,@,#,$,%, etc.) 
 ## Password Generation
 The application generates a random password based on selected options.
 Password Strength Checker
