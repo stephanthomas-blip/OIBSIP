@@ -7,7 +7,7 @@ The Advanced BMI Calculator is a Python desktop application developed using Tkin
 ## Features
 
 1. BMI Calculation
-2.BMI Category Classification
+2. BMI Category Classification
 3. PostgreSQL Database Storage
 4. Historical Record Tracking
 5. BMI Trend Analysis
