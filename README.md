@@ -1,4 +1,4 @@
-# Advanced BMI Calculator
+# BMI Calculator
 
 ## Overview
 
