@@ -1,6 +1,6 @@
 # BMI Calculator
 
-## Overview
+## Project Overview
 
 The Advanced BMI Calculator is a Python desktop application developed using Tkinter, PostgreSQL, and Matplotlib. It allows users to calculate their Body Mass Index (BMI), store records in a database, view historical data, and analyze BMI trends through graphical visualization.
 
