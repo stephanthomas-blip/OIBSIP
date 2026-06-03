@@ -57,7 +57,8 @@ The project provides a modern and user-friendly graphical interface that display
 ---
 
 ## Output
-![image.alt](
+![image.alt](https://github.com/stephanthomas-blip/OIBSIP/blob/4ad35fd8fdcf27050ce64f0200269900d2d1fbdb/Screenshot%202026-06-02%20155735.png)
+![image.alt[(
 
 
 
