@@ -1,18 +1,8 @@
-# Weather Dashboard Application
-
-## Oasis Infobyte Internship - Python Programming
-
-### Task
-
-Weather Application using Python and Tkinter
-
----
+# Basic Weather App
 
 ## Project Overview
 
-The Weather Dashboard Application is a Python-based GUI application developed using Tkinter. The application allows users to search for weather information of any city and displays real-time weather details using the OpenWeatherMap API.
-
-The project provides a modern and user-friendly graphical interface that displays weather conditions, temperature, humidity, wind speed, pressure, and forecast information in an organized dashboard format.
+The Weather Dashboard Application is a Python-based GUI application developed using Tkinter. The application allows users to search for weather information of any city and displays real-time weather details using the OpenWeatherMap API.The project provides a modern and user-friendly graphical interface that displays weather conditions, temperature, humidity, wind speed, pressure, and forecast information in an organized dashboard format.
 
 ---
 
