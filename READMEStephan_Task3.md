@@ -14,10 +14,10 @@ d.	Special symbols
 5.	Copy generated passwords to the clipboard. 
 6.	Provide a simple and user-friendly graphical interface. 
 ## Technologies Used
-Python	Programming Language
-Tkinter	GUI Development
-Random Module	Password Generation
-String Module	Character Sets
+1. Python Programming Language
+2. Tkinter GUI Development
+3. Random Module Password Generation
+4. String Module Character Sets
 
 ## Features
 1. Password Length Selection
@@ -76,10 +76,11 @@ G@8xP#2nQ!7m
 Strength:
 Strong
 ## Advantages
-•	Easy to use. 
-•	Generates random and secure passwords. 
+1.	Easy to use. 
+2.	Generates random and secure passwords.
+3.	Improves account security. 
+4.	Fast password generation. 
+5.	Customizable password
 ## Author
-Stephan
-•	Improves account security. 
-•	Fast password generation. 
-•	Customizable password cr
+Stephan 
+
