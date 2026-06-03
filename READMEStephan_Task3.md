@@ -59,22 +59,9 @@ e.	Presence of symbols
 7.	Display the generated password. 
 8.	Calculate password strength. 
 9.	Allow copying of password. 
-10.	End. 
-## Input
-a.	Password Length 
-b.	Character Type Selection 
-Example:
-Length = 12
-
-Uppercase
- Lowercase
-Numbers
-Symbols
-Output
-## Example Generated Password:
-G@8xP#2nQ!7m
-Strength:
-Strong
+10.	End.
+## Output
+![image.alt](
 ## Advantages
 1.	Easy to use. 
 2.	Generates random and secure passwords.
