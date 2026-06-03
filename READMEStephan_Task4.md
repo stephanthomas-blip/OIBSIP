@@ -45,56 +45,6 @@ The project provides a modern and user-friendly graphical interface that display
 
 ---
 
-## Project Structure
-
-```
-Weather-App/
-│
-├── weather_dashboard.py
-├── README.md
-└── requirements.txt
-```
-
----
-
-## Installation
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/YourUsername/OIBSIP.git
-```
-
-### Step 2: Navigate to Project Folder
-
-```bash
-cd OIBSIP
-```
-
-### Step 3: Install Dependencies
-
-```bash
-pip install requests pillow
-```
-
-### Step 4: Add Your API Key
-
-Replace the API key in the source code:
-
-```python
-API_KEY = "YOUR_API_KEY"
-```
-
-with your OpenWeatherMap API key.
-
-### Step 5: Run the Application
-
-```bash
-python weather_dashboard.py
-```
-
----
-
 ## How It Works
 
 1. User enters a city name.
@@ -106,39 +56,13 @@ python weather_dashboard.py
 
 ---
 
-## Learning Outcomes
-
-Through this project, the following concepts were implemented and learned:
-
-* API Integration
-* JSON Data Handling
-* GUI Development using Tkinter
-* Error Handling
-* User Input Validation
-* Data Display and Visualization
-* Event-Driven Programming
-* Real-Time Data Processing
-
----
-
-## Future Improvements
-
-* Automatic GPS location detection
-* Weather maps integration
-* Air Quality Index (AQI)
-* UV Index monitoring
-* Weather alerts and notifications
-* Hourly forecast cards
-* Dark and light theme switching
-* Export weather reports
-
----
-
 ## Output
+![image.alt](
 
 
 
 ## Conclusion
+In the interface first the name of the city is given after that hit select metric or imperial and after that it request the data form open weather and some seonc later it produces the Humidity, wind speed, pressure and feels like and then in the forcast pannel it is shown as output 
 
 
 ---
