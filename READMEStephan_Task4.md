@@ -35,7 +35,7 @@ The Weather Dashboard Application is a Python-based GUI application developed us
 
 ---
 
-## How It Works
+## Application
 
 1. User enters a city name.
 2. Application sends a request to the OpenWeatherMap API.
